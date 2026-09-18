@@ -15,3 +15,8 @@ Coaching and performance staff could use the tool to evaluate how effectively th
 
 ## Connection to Chapter 7
 This analytics idea currently aligns with the Creative phase of the Chapter 7 innovation framework. The decision problem and initial analytical approach have been defined to provide a foundation for evaluating the relationship between player availability, team performance, and post-injury performance. In practice, the concept has not yet been tested or refined based on the needs of the coaching and performance staff who would use the information. Progressing into the Prototyping phase would allow the initial approach to be refined through targeted experimentation and stakeholder feedback before broader implementation.
+
+## Prototype Evaluation
+The prototype presents a potentially useful refinement by adding length of absence and opponent context to the interpretation of performance differences; however, integration into the main project requires further evaluation. Although both factors are supported by the available data, the goal of their inclusion is to provide meaningful context for observed performance differences and reduce uncertainty for decision-makers.
+
+Feedback from coaching and performance staff would help determine whether length of absence provides meaningful context when evaluating post-return performance and whether opponent context is relevant when interpreting differences across matches. Their feedback would also help assess whether these additions strengthen the interpretation of performance patterns without introducing unnecessary complexity.
